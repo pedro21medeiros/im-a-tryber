@@ -1,3 +1,8 @@
 *.txt
 produtos.xls
 trybe_exercises/
+### Code ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
